@@ -15,7 +15,13 @@ $ git clone git@github.com:kecheon/digman_public.git
 
 - keys.yml: 제품등록번호, 업비트 API 접속 키쌍
 - config.yml: 봇의 구동 환경 설정
-- digman 실행파일
+- digman 실행파티
+
+## 라이센스 구매
+
+딕맨은 유료 소프트웨어입니다.
+라이센스 구매 신청은 아래 링크를 참조하세요
+https://cafe.naver.com/yn5678/1743
 
 ## 기능
 
@@ -43,3 +49,8 @@ $ git clone git@github.com:kecheon/digman_public.git
 ## 매매 기록
 
 - 로그파일: log.log
+
+## 관련 커뮤니티
+
+네이버 카페 비투공
+https://cafe.naver.com/yn5678
