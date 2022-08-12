@@ -5,9 +5,7 @@
 ## 설치
 
 이 프로젝트를 올바르게 동작시키기 위해서는 먼저 바이나리 코드를 다운로드 받을 필요가 있습니다.
-```bash
-$ git clone git@github.com:kecheon/digman_public.git
-```
+OS에 맞는 zip 파일을 다운로드 하세요.
 
 ## 제품의 구성
 
@@ -15,7 +13,7 @@ $ git clone git@github.com:kecheon/digman_public.git
 
 - keys.yml: 제품등록번호, 업비트 API 접속 키쌍
 - config.yml: 봇의 구동 환경 설정
-- digman 실행파티
+- digman 실행파일
 
 ## 라이센스 구매
 
