@@ -18,7 +18,7 @@ OS에 맞는 zip 파일을 다운로드 하세요.
 ## 라이센스 구매
 
 딕맨은 유료 소프트웨어입니다.
-라이센스 구매 신청은 https://t.me/kecheon
+문의 https://t.me/kecheon
 
 ## 기능
 
