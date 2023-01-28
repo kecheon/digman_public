@@ -18,8 +18,7 @@ OS에 맞는 zip 파일을 다운로드 하세요.
 ## 라이센스 구매
 
 딕맨은 유료 소프트웨어입니다.
-라이센스 구매 신청은 아래 링크를 참조하세요
-https://cafe.naver.com/yn5678/1743
+라이센스 구매 신청은 https://t.me/kecheon
 
 ## 기능
 
@@ -49,6 +48,4 @@ https://cafe.naver.com/yn5678/1743
 - 로그파일: log.log
 
 ## 관련 커뮤니티
-
-네이버 카페 비투공
-https://cafe.naver.com/yn5678
+https://bitsbee.net
